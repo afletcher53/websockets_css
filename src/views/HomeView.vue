@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import WebSocket from '../components/Websocket.vue'
+import webSocket from "@/components/WebSocket.vue";
 </script>
 
 <template>
   <main>
-    <WebSocket />
+    <webSocket />
   </main>
 </template>
